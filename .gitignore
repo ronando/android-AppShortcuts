@@ -1,0 +1,7 @@
+app/app.iml
+*.iml
+build/*
+idea/*
+build/
+.idea/
+.gradle/
